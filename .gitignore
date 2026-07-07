@@ -1,0 +1,18 @@
+# Environment variables (API keys - never commit these!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Database (local data)
+*.db
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
